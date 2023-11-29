@@ -1,6 +1,6 @@
 *Realize o clone desse repositorio! (Diretorio na máquina de sua preferencia)
 
-		* As instruções estão dentro de cada projeto. Verifique e implemente, após realizar os testes e responder as questões, faça um pull request para o repositorio inicial *
+		* As instruções estão dentro de cada projeto. Verifique e implemente, após realizar os testes e responder as questões *
 
 # Questões Teóricas
 
