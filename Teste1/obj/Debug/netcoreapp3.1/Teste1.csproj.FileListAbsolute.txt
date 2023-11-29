@@ -1,0 +1,14 @@
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\bin\Debug\netcoreapp3.1\Teste1.exe
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\bin\Debug\netcoreapp3.1\Teste1.deps.json
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.json
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.dev.json
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\bin\Debug\netcoreapp3.1\Teste1.dll
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\bin\Debug\netcoreapp3.1\Teste1.pdb
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.csproj.AssemblyReference.cache
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfoInputs.cache
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfo.cs
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.csproj.CoreCompileInputs.cache
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.dll
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.pdb
+\\SV04D-APP\Sistemas$\Weslley\Teste-Pratico\Teste1\obj\Debug\netcoreapp3.1\Teste1.genruntimeconfig.cache

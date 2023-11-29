@@ -1,0 +1,5 @@
+E:\Users\ftanaka\Downloads\t2\t2-master\obj\Debug\net6.0\t2-master.csproj.AssemblyReference.cache
+E:\Users\ftanaka\Downloads\t2\t2-master\obj\Debug\net6.0\t2-master.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ftanaka\Downloads\t2\t2-master\obj\Debug\net6.0\t2-master.AssemblyInfoInputs.cache
+E:\Users\ftanaka\Downloads\t2\t2-master\obj\Debug\net6.0\t2-master.AssemblyInfo.cs
+E:\Users\ftanaka\Downloads\t2\t2-master\obj\Debug\net6.0\t2-master.csproj.CoreCompileInputs.cache
